@@ -3,14 +3,14 @@
 A custom procedural generation tool built in **Unreal Engine 5** using **C++**, designed to explore algorithmic world-building, geographic noise layering, and data visualization. 
 
 <div align="center">
-  <img width="850" alt="Map Image" src="https://github.com/user-attachments/assets/..." />
+  <img width="850" alt="Map Image" src="https://github.com/user-attachments/assets/3a9e739e-9641-4831-bc3a-3a6cf9dd8d27"/>
 </div>
 
 <br>
 
 **This project is a work in progress (and will probably be for a while)!**
 
-## 🗺️ Progress so far
+## Progress so far
 
 * **Procedural Terrain Generation (C++):** Uses layered Perlin Noise (Octaves and Ridged Noise) combined with falloff to generate realistic landmasses and islands. 
 * **Political Expansion Simulation:** Generates kingdom borders using a breadth-first search / flood-fill algorithm. High-elevation points act as natural barriers/weights to emulate the influence geographical features have on country borders.
@@ -19,20 +19,27 @@ A custom procedural generation tool built in **Unreal Engine 5** using **C++**, 
 <br>
 
 <div align="center">
-  <img width="500" alt="Political View" src="https://github.com/user-attachments/assets/..." /> <br>
+  <img width="500" alt="Political View" src="https://github.com/user-attachments/assets/76a7af5e-3141-4590-a516-0d18a03a4222" /> <br>
   <i>Political View</i>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="500" alt="Terrain Edit View" src="https://github.com/user-attachments/assets/..." /> <br>
+  <img width="500" alt="Terrain/Physical View" src="https://github.com/user-attachments/assets/7cbdfaa6-5aea-484d-aa8f-aa1accc5288e" /> <br>
   <i>Terrain Edit View</i>
 </div>
+
 
 <br>
 
 * **Terrain Paint Tool:** An interactive brush that allows for gradual terrain alteration. The brush works in either an increasing or decreasing way, allowing users to lift terrain or carve it down to sea level.
+
+
+<div align="center">
+  <img width="500" alt="Terrain/Physical View" src="https://github.com/user-attachments/assets/dfde3f0b-7a23-4b37-90e1-a8ba9b6a6870" /> <br>
+  <i>Terrain Brush Tool</i>
+</div>
 
 <br>
 
