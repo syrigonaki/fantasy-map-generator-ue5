@@ -27,7 +27,7 @@ A custom procedural generation tool built in **Unreal Engine 5** using **C++**, 
 
 <div align="center">
   <img width="500" alt="Terrain/Physical View" src="https://github.com/user-attachments/assets/7cbdfaa6-5aea-484d-aa8f-aa1accc5288e" /> <br>
-  <i>Terrain Edit View</i>
+  <i>Terrain/Physical View</i>
 </div>
 
 
