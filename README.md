@@ -33,8 +33,9 @@ A custom procedural generation tool built in **Unreal Engine 5** using **C++**, 
 
 <br>
 
-* **Terrain Paint Tool:** An interactive brush that allows for gradual terrain alteration. The brush works in either an increasing or decreasing way, allowing users to lift terrain or carve it down to sea level.
+* **Terrain Paint Tool:** An interactive brush that allows for gradual terrain alteration. The brush works in the Terrain Edit View, either in an increasing or decreasing way, allowing users to lift terrain or carve it down to sea level. Pressing the `Apply Changes` button reverts the view back to normal, including the added changes.
 
+<br>
 
 <div align="center">
   <img width="500" alt="Terrain/Physical View" src="https://github.com/user-attachments/assets/dfde3f0b-7a23-4b37-90e1-a8ba9b6a6870" /> <br>
