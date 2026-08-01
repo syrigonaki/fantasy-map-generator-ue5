@@ -1,4 +1,4 @@
-# Procedural World Simulator & Map Engine (UE5 / C++)
+# Procedural Fantasy Map Generator (UE5 / C++)
 
 A custom procedural generation tool built in **Unreal Engine 5** using **C++**, designed to explore algorithmic world-building, geographic noise layering, and data visualization. 
 
