@@ -10,7 +10,8 @@ A procedural generation tool built in **Unreal Engine 5** using **C++**!
 
 ## Progress so far
 
-* **Procedural Terrain Generation (C++):** Uses layered Perlin Noise to generate realistic landmasses and islands. 
+* **Procedural Terrain Generation (C++):** Uses layered Perlin Noise to generate realistic landmasses and islands.
+* **Terrain Brush Tool**: Allows gradual terrain alteration.
 * **Political Expansion Simulation:** Generates kingdom borders using a flood-fill algorithm.
 
 <br>
